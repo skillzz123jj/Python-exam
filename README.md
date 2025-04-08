@@ -36,5 +36,5 @@ Jatkoa aikaisempaan! Luo luokka nimeltä `Character` ja lisää `Build` luokan a
 Ohjelman tulostuksen tulisi näyttää tältä:
 ```
 Assassin class with gear: {'katana': None, 'ranged': None, 'charm': None, 'ghost-weapon-1': None, 'ghost-weapon-2': None}
-Assassin class with gear: {'katana': Weapon Wind Katana is of type Rare, 'ranged': None, 'charm': Weapon Assassin Charm is of type Epic, 'ghost-weapon-1': None, 'ghost-weapon-2': None}
+Assassin class with gear: {'katana': Wind Katana is of type Rare, 'ranged': None, 'charm': Assassin Charm is of type Epic, 'ghost-weapon-1': None, 'ghost-weapon-2': None}
 ```
