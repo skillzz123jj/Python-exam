@@ -17,7 +17,7 @@ Jatkoa edelliseen teht채v채채n! Luo luokka nimelt채 `Build`, jonka parametrit j�
 seuraavasti: `"katana": None, "ranged": None, "charm": None, "ghost-weapon-1": None, "ghost-weapon-2": None`. Tee luokalle funktio nimelt채 `change_gear` ja sen parametriksi Weapon-olio. Funktio hakee sanakirjasta Weapon-olion `type` avulla oikean aseen ja laittaa olion sen arvoksi. 
 
 > [!TIP]
-> Lis채채 alla oleva funktio Weapon luokkaan (parantaa lukettavuutta tulostaessa)
+> Lis채채 alla oleva funktio Weapon luokkaan (parantaa luettavuutta tulostaessa)
 > ```
 >  def __repr__(self):
 >        return f"Weapon {self.name} is of type {self.tier}"
