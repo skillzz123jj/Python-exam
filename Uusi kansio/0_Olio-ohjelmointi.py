@@ -1,7 +1,3 @@
-
-
-
-
 class Weapon:
     
     created = 0
