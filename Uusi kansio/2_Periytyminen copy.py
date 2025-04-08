@@ -11,7 +11,7 @@ class Weapon:
         self.tier = tier
 
     def __repr__(self):
-        return f"Weapon {self.name} is of type {self.tier}"
+        return f"{self.name} is of type {self.tier}"
 
 
 class Build:
